@@ -7,9 +7,9 @@
     "type": "flarum-extension",
     "license": "GPL-1.0-or-later",
     "require": {
-        "flarum/core": "^1.2.0"
-		"flarum/flags": "*"
-		"flarum/approval": "*"
+        "flarum/core": "^1.2.0",
+        "flarum/flags": "*",
+        "flarum/approval": "*"
     },
     "authors": [
         {
@@ -68,7 +68,7 @@
         "test:integration": "phpunit -c tests/phpunit.integration.xml",
         "test:setup": "@php tests/integration/setup.php"
     },
-    "scripts-descriptions": {
+    "scripts-description": {
         "test": "Runs all tests.",
         "test:unit": "Runs all unit tests.",
         "test:integration": "Runs all integration tests.",
