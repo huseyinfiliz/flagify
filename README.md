@@ -22,4 +22,4 @@ composer update huseyinfiliz/flagify:"*"
 
 - [Packagist](https://packagist.org/packages/huseyinfiliz/flagify)
 - [GitHub](https://github.com/huseyinfiliz/flagify)
-- [Discuss](https://discuss.flarum.org/)
+- [Discuss](https://discuss.flarum.org/36703)
