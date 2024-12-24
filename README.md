@@ -1,6 +1,6 @@
 # Flagify: Flag to Unapprove
 
-![License](https://img.shields.io/badge/license-GPL-1.0-or-later-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/huseyinfiliz/flagify.svg)](https://packagist.org/packages/huseyinfiliz/flagify) [![Total Downloads](https://img.shields.io/packagist/dt/huseyinfiliz/profile-cards.svg)](https://packagist.org/packages/huseyinfiliz/flagify)
+![License](https://img.shields.io/badge/license-GPL-3.0blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/huseyinfiliz/flagify.svg)](https://packagist.org/packages/huseyinfiliz/flagify) [![Total Downloads](https://img.shields.io/packagist/dt/huseyinfiliz/profile-cards.svg)](https://packagist.org/packages/huseyinfiliz/flagify)
 
 A [Flarum](http://flarum.org) extension.
 
