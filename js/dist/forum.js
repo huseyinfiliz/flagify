@@ -1,0 +1,2 @@
+(()=>{var e={n:o=>{var i=o&&o.__esModule?()=>o.default:()=>o;return e.d(i,{a:i}),i},d:(o,i)=>{for(var r in i)e.o(i,r)&&!e.o(o,r)&&Object.defineProperty(o,r,{enumerable:!0,get:i[r]})},o:(e,o)=>Object.prototype.hasOwnProperty.call(e,o)};(()=>{"use strict";const o=flarum.core.compat["forum/app"];e.n(o)().initializers.add("huseyinfiliz-flagify",(function(){console.log("[Flagify] Extension initialized")}))})(),module.exports={}})();
+//# sourceMappingURL=forum.js.map
